@@ -10,3 +10,7 @@ a career that im interested in is video game coding, becasue you need to know ho
 # September 22, 2025
 
 i think that the idea of working in a virtual store is bad for future jobs. I think this because if everyone is busy doing online jobs who will be doing the real life jobs? The jobs that help people and have reason, such as constction. people need to build house or buildings for people to live or work, without that where are we gonnna live. In addtion, everyone that have these virtual jobs don't learn any social skills or how to do something common like learning how to change the oil in their car or fixing their Ac. My evidence proves that virtual jobs are not good for future jobs applacations.
+
+# October 6, 2025
+
+If i was in charge of my own school i would'nt allow the use of Ai, but i would only the use of google translate. That way students who don't speak the same langueg can still commuacate with each other. i'd also let the students play cool math games, only when they are done with all there work and have no missing asiments. Anothor change would allow students to use there phones during lunch, so all the kids can relax and have fun while they eat and chat with their friends. I belive this way the students will do better on there school work, better communact with other students better, and reduce stress in the school.
