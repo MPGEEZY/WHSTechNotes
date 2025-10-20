@@ -20,3 +20,10 @@ If i was in charge of my own school i would'nt allow the use of Ai, but i would 
 i made my prompt into a presontion. everything that it made was expected, exsppecpt for the imanges and the fact that it made more then one presontaion. i could've inproved my prompt by adding more detail and being more disrictive. being a prompt engineer could be a good, because you could type prompt to finish work quickly.
 https://www.canva.com/design/DAG13ijSY6o/pTZ4EDT-4FzHiiXUZ3CKZA/edit?utm_content=DAG13ijSY6o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 prompt: make an educainal presentaion on being a chef in 5 or less slides.
+
+# october 20 2025
+
+| Name        |    class    |       seat       |
+| frankiln    |    second   |        91A       |
+| hardeep     |    Third    |        61F       |
+|  maria      |    first    |        35B       |
