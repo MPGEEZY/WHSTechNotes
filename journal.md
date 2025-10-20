@@ -24,6 +24,7 @@ prompt: make an educainal presentaion on being a chef in 5 or less slides.
 # october 20 2025
 
 | Name        |    class    |       seat       |
+| ----------- | ----------- | ---------------- |
 | frankiln    |    second   |        91A       |
 | hardeep     |    Third    |        61F       |
 |  maria      |    first    |        35B       |
