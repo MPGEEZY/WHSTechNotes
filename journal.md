@@ -21,7 +21,7 @@ i made my prompt into a presontion. everything that it made was expected, exsppe
 https://www.canva.com/design/DAG13ijSY6o/pTZ4EDT-4FzHiiXUZ3CKZA/edit?utm_content=DAG13ijSY6o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 prompt: make an educainal presentaion on being a chef in 5 or less slides.
 
-# october 20 2025
+# october 20, 2025
 
 | Name        |    class    |       seat       |
 | ----------- | ----------- | ---------------- |
