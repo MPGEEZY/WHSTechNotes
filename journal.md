@@ -33,3 +33,7 @@ prompt: make an educainal presentaion on being a chef in 5 or less slides.
 # November 3, 2025
 
 technoly can help by using ai to help determine how to transport the food.
+
+# November 10, 2025
+
+yes i am looking forward to thanksgiving break.
