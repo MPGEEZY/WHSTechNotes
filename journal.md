@@ -37,3 +37,7 @@ technoly can help by using ai to help determine how to transport the food.
 # November 10, 2025
 
 yes i am looking forward to thanksgiving break.
+
+# November 17, 2025
+
+I beleive that technoly will make chrismas better and easier to shop for gifts. Because with a simple app you couid easyly buy all the gifta you need beforehand and your already doen, just with the click of a buttion.
