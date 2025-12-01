@@ -41,3 +41,8 @@ yes i am looking forward to thanksgiving break.
 # November 17, 2025
 
 I beleive that technoly will make chrismas better and easier to shop for gifts. Because with a simple app you couid easyly buy all the gifta you need beforehand and your already doen, just with the click of a buttion.
+
+# December 1, 2025
+
+
+programer usually code how the drone moves.
