@@ -49,3 +49,7 @@ programer usually code how the drone moves.
 # December 8, 2025
 
 I think it fails to reconize buses because it breaks its coding with the stop sign. i assume the car's Ai registers stops signs as signs as in like catagory, so seeing a stop sign on a bus whitch i assume is in the car catagory breaks it's coding. seeing something that classifys as a car and sign in its' coding must casue it to break and start causing those violations.
+
+# December 15, 2025
+
+my plans for winter break are to take it easy and relax.
