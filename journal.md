@@ -53,3 +53,7 @@ I think it fails to reconize buses because it breaks its coding with the stop si
 # December 15, 2025
 
 my plans for winter break are to take it easy and relax.
+
+# January 6, 2026
+
+The way i used technoly on break is using my phone to play games all day.
