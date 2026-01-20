@@ -57,3 +57,7 @@ my plans for winter break are to take it easy and relax.
 # January 6, 2026
 
 The way i used technoly on break is using my phone to play games all day.
+
+# January 20, 2026
+
+One way technology can help society is by by dissubuting food and water more equally.
