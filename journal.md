@@ -61,3 +61,7 @@ The way i used technoly on break is using my phone to play games all day.
 # January 20, 2026
 
 One way technology can help society is by by dissubuting food and water more equally.
+
+January 29, 2026
+
+The test i took this week were algebra, language, and reading. The algebra test was easy and stright forward, but the reading test took me the entire 4 hours.
