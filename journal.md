@@ -65,3 +65,7 @@ One way technology can help society is by by dissubuting food and water more equ
 # January 29, 2026
 
 The test i took this week were algebra, language, and reading. The algebra test was easy and stright forward, but the reading test took me the entire 4 hours.
+
+# February 2, 2026
+
+hygein is important so you don't distract others and so you have proper edikit
