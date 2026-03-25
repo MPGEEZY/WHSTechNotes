@@ -73,3 +73,7 @@ hygein is important so you don't distract others and so you have proper edikit
 # February 23, 2026
 
 timeing systems have improved the way it is judged.
+
+# March 23, 2026
+
+The brackets i chose were risky because the teams didn't have too many wins.
