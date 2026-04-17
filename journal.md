@@ -81,3 +81,7 @@ The brackets i chose were risky because the teams didn't have too many wins.
 # March 30, 2026
 
 ion know.
+
+# April 13, 2026
+
+i beleive our technoly is advanced enough for us to be on the moon for a couple of days.
