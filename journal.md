@@ -77,3 +77,7 @@ timeing systems have improved the way it is judged.
 # March 23, 2026
 
 The brackets i chose were risky because the teams didn't have too many wins.
+
+# March 30, 2026
+
+ion know.
