@@ -89,3 +89,7 @@ i beleive our technoly is advanced enough for us to be on the moon for a couple 
 # april 20, 2016
 
 free week
+
+# April 27, 2026
+
+Technoly played a role in my life by letting me text my fmaily and friends during the weekend.
