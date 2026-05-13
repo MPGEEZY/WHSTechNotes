@@ -93,3 +93,11 @@ free week
 # April 27, 2026
 
 Technoly played a role in my life by letting me text my fmaily and friends during the weekend.
+
+# May 6, 2026
+
+i beleaive we help Ai train by looking up things and going more specific in what we want so the Ai can learn what we want faster.
+
+# May 11, 2026
+
+I beleaive that my confidence and communicaion have improved through out this year. Because of my friends and meeting new people. i used to shake, and my palms would sweat when i evem would think about talking to someone new. But now i cam do it with no probelm.
